@@ -4,7 +4,6 @@ nav ul {
 	padding: 0;
 }
 
-
 nav ul li {
 	float: right;
 }
@@ -20,6 +19,33 @@ nav ul li a {
 	padding-top: 7px;
 	padding-bottom: 3px;
 	text-align: center;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+}
+
+footer ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+footer ul li {
+	float: left;
+}
+
+footer ul li a {
+	display: block;
+	width: 100px;
+	height: 20px;
+	color: #6e6e6e;
+	font-size: 14px;
+	text-decoration: none;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 button {
