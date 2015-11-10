@@ -24,6 +24,11 @@ nav ul li a {
 footer {
 	position: fixed;
 	bottom: 0;
+	background-color: #f4f4f4;
+	width: 100%;
+	margin-left: -10px;
+	padding-left: 10px;
+	padding-top: 5px;
 }
 
 footer ul {
@@ -38,7 +43,7 @@ footer ul li {
 
 footer ul li a {
 	display: block;
-	width: 100px;
+	width: 85px;
 	height: 20px;
 	color: #6e6e6e;
 	font-size: 14px;
