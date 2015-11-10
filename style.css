@@ -13,7 +13,16 @@ nav ul li a {
 	display: block;
 	width: 50px;
 	color: #6e6e6e;
+	font-size: 15px;
+}
 
+button {
+	width: 130px;
+	height: 35px;
+	padding-left: 3px;
+	padding-right: 3px;
+	font-weight: bold;
+	color: #6e6e6e;
 }
 
 #logo {
@@ -30,4 +39,11 @@ input {
 	width: 450px;
 	height: 30px;
 	font-size: 20px;
+}
+
+#buttons {
+	display: block;
+	margin: auto;
+	width: 266px;
+	padding-top: 30px;
 }
