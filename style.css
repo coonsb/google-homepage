@@ -11,9 +11,15 @@ nav ul li {
 
 nav ul li a {
 	display: block;
-	width: 50px;
+	width: 70px;
+	height: 20px;
 	color: #6e6e6e;
 	font-size: 15px;
+	font-weight: bold;
+	text-decoration: none;
+	padding-top: 7px;
+	padding-bottom: 3px;
+	text-align: center;
 }
 
 button {
@@ -28,7 +34,7 @@ button {
 #logo {
 	display: block;
 	margin: auto;
-	width: 350px;
+	width: 275px;
 	padding-top: 75px;
 	padding-bottom: 10px;
 }
@@ -46,4 +52,12 @@ input {
 	margin: auto;
 	width: 266px;
 	padding-top: 30px;
+}
+
+#signin {
+	background-color: #3385ff;
+	border-radius: 8%;
+	color: #fff;
+	text-shadow: .2px .2px #000;
+	margin-left: 10px;
 }
